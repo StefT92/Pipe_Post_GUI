@@ -1,0 +1,13 @@
+/home/stefano/Projects/Flue_Pipe_Framework_Lite/Audio_Test/Testing_Real_Sounds/Samples_Hauptwerk/Caen_Cavaille-Coll/Grand_Orgue/Montre_16/Keys
+/home/stefano/Projects/Pipe_Network_GUI/BEST_OF_STOPS/0034_07-11-2017_12_58_40_16_Montre_16_H[FT1]_[WE70]_[AL1]_[ID1001]/16_Montre_16_H[FT1]_[WE70]_[AL1]_[ID1001]
+/home/stefano/Scrivania/0047_10-11-2017_10_28_10_16_Montre_16_H[FT1]_[WE70]_[AL1]_[ID1001]/16_Montre_16_H[FT1]_[WE70]_[AL1]_[ID1001]
+31250
+48000
+.f32m
+96000
+-7
+08
+1
+0
+1
+1
